@@ -47,3 +47,15 @@ body{
 	margin-bottom: 20px;
 }
 
+
+.dark-blue {
+	background-color:#185586
+}
+
+.circulo {
+	position: absolute;
+	top: 60%;
+	left: 0%;
+	z-index: -1;
+	width: 15%;
+}
