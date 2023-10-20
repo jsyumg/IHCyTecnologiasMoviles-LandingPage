@@ -27,6 +27,7 @@
 .nav-item {
     border: 2px solid black; /* Adjusted the border thickness */
     border-radius: 5px;      /* This will round the corners */
+    color: #3786C6;
     margin: 10px;
     margin-right: 20px;
     margin-left: 20px;
