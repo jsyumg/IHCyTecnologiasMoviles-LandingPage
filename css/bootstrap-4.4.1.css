@@ -4735,7 +4735,7 @@ input[type="button"].btn-block {
   background-color: #fff;
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
-  border-radius: 0.25rem;
+  border-radius: 2rem;
 }
 
 .card > hr {
@@ -4851,7 +4851,7 @@ input[type="button"].btn-block {
   margin-bottom: 15px;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 650px) {
   .card-deck {
     display: -ms-flexbox;
     display: flex;
